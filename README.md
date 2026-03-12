@@ -49,12 +49,32 @@ I am a **COMPUTER SCIENCE ENGINEER** at **Guru Tegh Bahadur Institute of Technol
 
 Instead of listing every project, I organize my work like this:
 
-| Category | Description | Explore |
-|--------|-------------|--------|
-| 🌐 Full-Stack Web | Responsive websites, portfolio projects, and JS experiments | [View Projects](https://github.com/harshitahira63-star?tab=repositories) |
-| 💻 Java & DSA | Data structures and algorithm practice | [View DSA Work](https://github.com/harshitahira63-star?tab=repositories) |
-| 🎓 Academic Labs | Engineering lab projects from GTBIT | [View Coursework](https://github.com/harshitahira63-star?tab=repositories) |
-| 🧩 Foundations | Basic programming projects in Python, C and C++ | [View Basics](https://github.com/harshitahira63-star?tab=repositories) |
+
+### 🌱 Foundations
+Basic programming projects in Python, C and C++
+
+- [Python Calculator](https://github.com/harshitahira63-star/python-calculator)
+
+---
+
+### 💻 Java & DSA
+Algorithm and Java-based projects
+
+- Coming Soon
+
+---
+
+### 🌐 Full Stack Web
+Web development projects
+
+- Coming Soon
+
+---
+
+### 🎓 Academic Labs
+Projects from GTBIT coursework
+
+- Coming Soon
 
 ---
 

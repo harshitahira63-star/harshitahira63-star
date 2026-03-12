@@ -54,6 +54,7 @@ Instead of listing every project, I organize my work like this:
 Basic programming projects in Python, C and C++
 
 - [Python Calculator](https://github.com/harshitahira63-star/python-calculator)
+- [Python Quiz Game](https://github.com/harshitahira63-star/python-quiz-game)
 
 ---
 

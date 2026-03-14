@@ -55,6 +55,7 @@ Basic programming projects in Python, C and C++
 
 - [Python Calculator](https://github.com/harshitahira63-star/python-calculator)
 - [Python Quiz Game](https://github.com/harshitahira63-star/python-quiz-game)
+- [Python expenses-splitter](https://github.com/harshitahira63-star/python-expenses-splitter)
 
 ---
 

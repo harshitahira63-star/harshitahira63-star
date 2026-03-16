@@ -62,7 +62,8 @@ Basic programming projects in Python, C and C++
 ### 💻 Java & DSA
 Algorithm and Java-based projects
 
-- Coming Soon
+- [java-pattern-program](https://github.com/harshitahira63-star/java-pattern-program)
+
 
 ---
 
